@@ -19,7 +19,7 @@ function Footer() {
             </div>
 
             <div className="container p-4 pb-0">
-                <section className="">
+                <section>
 
                     <div className="row">
                         <div className="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
@@ -38,16 +38,16 @@ function Footer() {
                         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                             <h6 className="text-uppercase mb-4 font-weight-bold">Products</h6>
                             <p>
-                                <a className="text-white">Water Harbor Classic</a>
+                                <a href="#aboutUs" className="text-white">Water Harbor Classic</a>
                             </p>
                             <p>
-                                <a className="text-white">Water Harbor Sparkling</a>
+                                <a href="#aboutUs" className="text-white">Water Harbor Sparkling</a>
                             </p>
                             <p>
-                                <a className="text-white">Water Harbor Sport:</a>
+                                <a href="#aboutUs" className="text-white">Water Harbor Sport:</a>
                             </p>
                             <p>
-                                <a className="text-white">Water Harbor Pure</a>
+                                <a href="#aboutUs" className="text-white">Water Harbor Pure</a>
                             </p>
                         </div>
 
