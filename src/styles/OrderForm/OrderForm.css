@@ -1,0 +1,161 @@
+.margin-bottom {
+    margin-bottom: 2500px !important;
+}
+
+.divOrderForm {
+    position: absolute;
+    outline-style: solid;
+    outline-color: blue;
+
+    background-color: powderblue;
+
+    top: 405%;
+    width: 100%;
+    height: 15%;
+    padding: 12px;
+
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+
+    z-index: -2;
+}
+
+.headerOrderForm {
+    color: blueviolet;
+
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 55px;
+
+    text-shadow: 2px 2px cadetblue;
+    text-align: center;
+}
+
+.sideImgOrderFormRight1 {
+    position: absolute;
+    margin-bottom: 100px;
+    margin-left: 63.8%;
+
+    top: 420.3%;
+    height: 888px;
+    width: 550px;
+    z-index: -1;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+}
+
+.divOrderFormText1 {
+    position: absolute;
+    top: 430%;
+    width: 57%;
+    left: 3%;
+
+    padding-left: 5px;
+    padding-right: 5px;
+
+    font-size: 25px;
+    font-family: Calibri, sans-serif;
+
+    text-shadow: 1px 1px cadetblue;
+    text-align: justify;
+
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+
+    border-radius: 8px;
+    border-color: blue;
+    border-width: 1px;
+    border-style: inset;
+}
+
+.divOrderFormMain {
+    position: absolute;
+    padding-top: 25px;
+    padding-left: 40px;
+    padding-bottom: 25px;
+    top: 460% ;
+    left: 14%;
+    width: 35%;
+    height: 500px;
+
+    background-image: linear-gradient(to bottom right, darkslateblue, lightblue);
+
+    border-radius: 25px;
+    border-style: outset;
+    border-width: 2px;
+    border-color: orange;
+
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2),
+                0 10px 24px 0 rgba(0, 0, 0, 0.19),
+                0 8px 12px 0 rgba(0, 0, 0, 0.2),
+                0 10px 24px 0 rgba(0, 0, 0, 0.19);
+}
+
+.inputStyle {
+    height: 100px;
+    width: 450px;
+
+    color: khaki;
+    font-family: Arial, sans-serif;
+}
+
+.inputStyle input {
+    border-style: outset;
+    border-width: 2px;
+    border-color: orange;
+
+    box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+    color: darkblue;
+    background-color: whitesmoke;
+}
+
+.SelectWaterInput {
+    position: absolute;
+    width: 127px !important;
+}
+
+.noteText1 {
+    position: absolute;
+    padding-left: 28%;
+    padding-top: 4.4%;
+    width: 90%;
+
+    font-family: Arial, sans-serif;
+    font-size: 14.7px;
+
+    color: red;
+    text-align: justify;
+    text-shadow: 1px 1px lightslategrey;
+}
+
+.buttonSubmit {
+    top: 470%;
+    background-image: linear-gradient(to bottom right, darkblue, dodgerblue);
+    color: whitesmoke;
+    height: 40px;
+    width: 130px;
+    margin-right: 20px;
+    
+    border-radius: 17px;
+}
+
+.buttonSubmit:active {
+    transform: scale(0.95);
+}
+
+.buttonReset {
+    background-image: linear-gradient(to bottom right, red, darkred);
+    color: white;
+    height: 40px;
+    width: 130px;
+    
+    border-radius: 17px;
+}
+
+.buttonReset:active {
+    transform: scale(0.95);
+}
+
+

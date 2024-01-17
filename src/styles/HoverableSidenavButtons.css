@@ -1,0 +1,37 @@
+#mySidenav a {
+    position: fixed;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    border-radius: 0 10px 10px 0;
+    z-index: 10;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#main1 {
+    top: 150px;
+    font-size: 50%;
+    background-color: royalblue;
+}
+
+#aboutUs2 {
+    top: 210px;
+    background-color: firebrick;
+}
+
+#delivery3 {
+    top: 270px;
+    background-color: forestgreen;
+}
+
+#contact4 {
+    top: 330px;
+    background-color: lightslategray;
+}

@@ -1,0 +1,79 @@
+.companyLogo {
+    position: absolute;
+    top: 15%;
+    left: 11%;
+    width: 30%;
+
+    border-radius: 10px;
+    border-style: inset;
+    border-color: blue;
+
+    transform: skew(-20deg);
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+    background-image: linear-gradient(to bottom right, paleturquoise, skyblue);
+}
+
+.companyLogo h1 {
+    color: darkmagenta;
+    font-family: Cursive, sans-serif;
+    font-weight: bold;
+    font-size: 55px;
+    text-shadow: 3px 3px cadetblue;
+    text-align: center;
+}
+
+.companyText {
+    position: absolute;
+    padding: 7px;
+    top: 40%;
+    left: 5%;
+    width: 44%;
+
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+
+    text-shadow: 1px 1px cadetblue;
+    text-align: justify;
+
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+
+    border-radius: 25px;
+    border-width: 1.5px;
+    border-style: outset;
+    border-color: blue;
+}
+
+.button-style {
+    position: absolute;
+    top: 77%;
+    left: 5%;
+    border-style: outset !important;
+    border-width: 3px !important;
+    border-color: mediumslateblue !important;
+
+    background-color: #007BFF !important;
+    color: white !important;
+    transition: transform 0.5s !important;
+
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19) !important;
+    background-image: linear-gradient(to bottom right, mediumblue, aqua);
+}
+
+.button-style:active {
+    transform: scale(0.95);
+}
+
+.emblemStyle {
+    position: absolute;
+    top: 77%;
+    left: 26%;
+
+    border-style: inset;
+    border-width: 2px;
+    border-color: blue;
+    border-radius: 160px;
+
+    box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+    transform: rotate(5deg);
+}

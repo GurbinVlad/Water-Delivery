@@ -1,0 +1,47 @@
+.footerStyle {
+    position: absolute;
+    top: 546.5%;
+    width: 100%;
+    left: 0%;
+
+    box-shadow: 0 -2px 8px 0 rgba(0, 0, 0, 0.2), 0 -5px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.motto {
+    text-align: justify;
+}
+
+.reactLogo {
+    position: absolute;
+    top: 50px;
+    right: 70.5%;
+    height: 50%;
+    width: 50%;
+}
+
+.faInsta {
+    position: absolute;
+    margin-left: 30px;
+}
+
+.faTiktok {
+    position: relative;
+    top: 10%;
+    padding-right: 30px;
+}
+
+.faTwitt {
+    position: relative;
+    top: 10%;
+    padding-right: 30px;
+}
+
+.faGit {
+    position: absolute;
+    margin-left: 100px;
+}
+
+.faLinkenIn {
+    position: absolute;
+    margin-top: 19px;
+}
