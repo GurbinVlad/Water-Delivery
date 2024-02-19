@@ -1,1 +1,1 @@
-# Course work: Water-delivery (website)
+# Гурбін Влад, 3 курс ІКС АІ-212, Frontend-Task (Виробнича_практика)
